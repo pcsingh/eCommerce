@@ -1,0 +1,83 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "iPhone",
+            "price": 8900,
+            "quantity": 0
+        },
+        {
+            "id": 2,
+            "productName": "Samsung",
+            "price": 2900,
+            "quantity": 0
+        },
+        {
+            "id": 3,
+            "productName": "MicroMax",
+            "price": 900,
+            "quantity": 0
+        },
+        {
+            "id": 4,
+            "productName": "TV",
+            "price": 9900,
+            "quantity": 0
+        },
+        {
+            "id": 5,
+            "productName": "OnePlus",
+            "price": 5900,
+            "quantity": 0
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "scott@test.com",
+            "password": "scott123"
+        },
+        {
+            "id": 2,
+            "email": "allen@test.com",
+            "password": "allen123"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Scott",
+            "phone": "123",
+            "city": "London",
+            "photo": "https://picsum.photos/id/1010/60"
+        },
+        {
+            "id": 2,
+            "name": "Scott",
+            "phone": "123",
+            "city": "random",
+            "photo": "https://picsum.photos/id/1011/60"
+        },
+        {
+            "id": 3,
+            "name": "Jones",
+            "phone": "123",
+            "city": "Amsterdam",
+            "photo": "https://picsum.photos/id/1012/60"
+        },
+        {
+            "id": 4,
+            "name": "Allen",
+            "phone": "",
+            "city": "xyz",
+            "photo": "https://picsum.photos/id/1013/60"
+        },
+        {
+            "id": 5,
+            "name": "Helen",
+            "phone": "789-562",
+            "city": "Amsterdam",
+            "photo": "https://picsum.photos/id/1018/60"
+        }
+    ]
+}

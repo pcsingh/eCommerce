@@ -7,7 +7,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.green-highlight {
+  color: #008000;
+  font-size: 16px;
+}
+
+.red-highlight {
+  color: #ff0000;
+  font-size: 16px;
+}
+
+.hand-icon {
+  cursor: pointer;
 }
